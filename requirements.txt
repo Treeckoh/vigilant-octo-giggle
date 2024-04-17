@@ -1,0 +1,8 @@
+tensorflow
+requests
+sklearn
+pandas
+json
+copy
+bs4
+re
